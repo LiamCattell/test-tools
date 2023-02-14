@@ -1,0 +1,7 @@
+README.md
+setup.py
+testtools.egg-info/PKG-INFO
+testtools.egg-info/SOURCES.txt
+testtools.egg-info/dependency_links.txt
+testtools.egg-info/requires.txt
+testtools.egg-info/top_level.txt
